@@ -1,0 +1,29 @@
+section{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    width:33%;
+    float:left;
+    margin: 5px 0.33% 0px 0px;
+    padding-top: 5px;
+    height: 100px;
+    border-spacing: 2px;
+}
+#arama{
+    background-color: rgb(238,238,238);
+}
+#bir{
+    background-color:rgb(126,229,218) ;
+}
+#iki{
+    background-color: rgb(112,204,194);
+    font-size: 13px;
+}
+#üç{
+    background-color: rgb(98,179,170);
+    font-size: 13px;
+}
+#alt{
+     margin-left: 600px;
+}
